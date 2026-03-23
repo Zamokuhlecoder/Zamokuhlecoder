@@ -1,6 +1,6 @@
 👋 Hi, I’m Zamokuhle Sibusiso Mazibuko
 
-🎓 Business Information Technology Student
+
 💻 Software Developer | 📱 Mobile App Developer | 📊 Data & BI Enthusiast
 📍 South Africa
 
